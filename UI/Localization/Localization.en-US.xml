@@ -59,7 +59,7 @@
   <row key="menu-settings" value="Settings"/>
   <row key="menu-about" value="About program"/>
 
-  <row key="main-reciver" value="Reciver"/>
+  <row key="main-reciver" value="Receiver"/>
 
   <row key="serverTemplate-p2pPort" value="Port P2P"/>
   <row key="serverTemplate-p2pPort-default" value="Default"/>
@@ -104,7 +104,7 @@
 
   <row key="mainViewModel-paramsError" value="Error in input values."/>
   <row key="mainViewModel-clientNotCreated" value="Client not connected to any server. Connect to server first."/>
-  <row key="mainViewModel-apiNotSupported" value="Appliaction not supported this version of Api ({0}). Connection refused."/>
+  <row key="mainViewModel-apiNotSupported" value="Application not supported this version of Api ({0}). Connection refused."/>
   <row key="mainViewModel-roomExitQuestion" value="Do you want to leave the room?"/>
   <row key="mainViewModel-roomCloseQuestion" value="Do you want to close the room?"/>
   <row key="mainViewModel-serverDisableQuestion" value="Do you want to disable the server"/>
@@ -115,9 +115,9 @@
   <row key="messageViewModel-from" value="[{0}] from: "/>
   <row key="messageViewModel-pmForm" value="[{0}] PM from: "/>
   <row key="messageViewModel-byteStr" value="byte"/>
-  <row key="messageViewModel-kbyteStr" value="Kb"/>
-  <row key="messageViewModel-mbyteStr" value="Mb"/>
-  <row key="messageViewModel-fileNotFound" value="File not availavle"/>
+  <row key="messageViewModel-kbyteStr" value="KB"/>
+  <row key="messageViewModel-mbyteStr" value="MB"/>
+  <row key="messageViewModel-fileNotFound" value="File not available"/>
   <row key="messageViewModel-cantDownloadItsFile" value="You must not download own file."/>
   <row key="messageViewModel-cancelDownloadingQuestion" value="You aleady download this file. Cancel downloading?"/>
   <row key="messageViewModel-fileDownloaded" value="File {0} downloaded."/>
@@ -140,5 +140,5 @@
   <row key="errorCode-FileInRoomNotFound" value="File in room not found."/>
   <row key="errorCode-WrongContentType" value="Wrong content type (internal error)."/>
   <row key="errorCode-IllegalInvoker" value="Illegal invoker (internal error)."/>
-  <row key="errorCode-UnknownRoomType" value="Unknown room type was recived."/>
+  <row key="errorCode-UnknownRoomType" value="Unknown room type was received."/>
 </Localization>
